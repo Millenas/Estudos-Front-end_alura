@@ -21,6 +21,7 @@ O Portfólio apresenta inicialmente as principais informações sobre mim, tem u
 
 ## 📁 Acesso ao projeto
 
+[Veja o projeto final em funcionamento](https://portfolio-millenas.vercel.app/).
 
 ## 🛠️ Abrir e rodar o projeto
 
