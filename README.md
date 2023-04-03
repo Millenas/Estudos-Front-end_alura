@@ -2,13 +2,13 @@
 
 # Portfólio
 Olá, bem vindo ao meu projeto de portfólio. <br>
-Este projeto foi desenvolvido durante o curso de Formação em Front-End da Alura e apresenta breves informaçãoes sobre a minha pessoa.<br> 
+Este projeto foi desenvolvido durante o curso de Formação em Front-End da Alura e apresenta breves informaçãoes sobre a minha pessoa. Também alterei a paleta de cores do projeto do curso<br> 
 
 
 ## 🔨 Funcionalidades do projeto
 
 O Portfólio apresenta inicialmente as principais informações sobre mim, tem uma navegação com duas funcionalidades `<home>` e `<sobre mim>`, a parti da tela `<home>` 
-é possível acessar minhas redes sociais e visualizar um foto minha.
+é possível acessar minhas redes sociais e visualizar uma foto minha.
 
 
 ## ✔️ Tecnologias utilizadas
